@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-API-Gateway-Routing-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Gateway-Routing-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-API-Gateway-Routing-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-API-Gateway-Routing-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Gateway-Routing-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-API-Gateway-Routing-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-API-Gateway-Routing-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -54,9 +54,9 @@ A comparative breakdown of enterprise SaaS and fully managed API gateway service
 
 ## 🚀 Top Open-Source API Gateways & Runtimes
 
-Explore top-rated, open-source API gateways, reverse proxies, and Kubernetes ingress controllers. Repositories are sorted in descending order by GitHub star count:
+Explore top-rated, open-source API gateways, reverse proxies, and Kubernetes ingress controllers. Repositories are sorted in descending order by GitHub Stars_Count:
 
-| Project & Repo | Stars | License | Primary Language / Architecture | Key Highlights |
+| Project & Repo | GitHub_Stars | License | Primary Language / Architecture | Key Highlights |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Caddy](https://github.com/caddyserver/caddy)** | [![Caddy Stars](https://img.shields.io/github/stars/caddyserver/caddy?style=social&color=white)](https://github.com/caddyserver/caddy/stargazers) | Apache-2.0 | Go | Powerful enterprise-ready HTTP/2 & HTTP/3 web server with automatic HTTPS via Let's Encrypt / ZeroSSL, reverse proxying, and dynamic JSON API configuration. |
 | **[Traefik Proxy](https://github.com/traefik/traefik)** | [![Traefik Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | MIT | Go | Leading cloud-native HTTP reverse proxy and ingress controller with automatic discovery for Docker, Swarm, Kubernetes, and automatic TLS termination. |
